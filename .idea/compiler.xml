@@ -8,16 +8,22 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="gmall-web-util" />
-        <module name="gmall-item-web" />
+        <module name="gmall-search-service" />
         <module name="gmall-common-util" />
+        <module name="gmall-item-web" />
+        <module name="gmall-passport-web" />
         <module name="gmall-manage-web" />
+        <module name="gmall-manage-service" />
+        <module name="gmall-order-service" />
         <module name="fastdfs-client-java" />
         <module name="gmall-cart-service" />
         <module name="gmall-api" />
-        <module name="gmall-manage-service" />
-        <module name="gmall-cart-web" />
+        <module name="gmall-order-web" />
+        <module name="gmall-seckill" />
+        <module name="gmall-payment" />
         <module name="gmall-user-service" />
-        <module name="gmall-search-service" />
+        <module name="gware-manage" />
+        <module name="gmall-cart-web" />
         <module name="gmall-user-web" />
         <module name="gmall-search-web" />
         <module name="gmall-user" />
@@ -33,14 +39,21 @@
       <module name="gmall-item-web" target="1.8" />
       <module name="gmall-manage-service" target="1.8" />
       <module name="gmall-manage-web" target="1.8" />
+      <module name="gmall-order-service" target="1.8" />
+      <module name="gmall-order-web" target="1.8" />
       <module name="gmall-parent" target="1.8" />
+      <module name="gmall-passport-web" target="1.8" />
+      <module name="gmall-payment" target="1.8" />
       <module name="gmall-search-service" target="1.8" />
       <module name="gmall-search-web" target="1.8" />
+      <module name="gmall-seckill" target="1.8" />
       <module name="gmall-service-util" target="1.8" />
       <module name="gmall-user" target="1.8" />
       <module name="gmall-user-service" target="1.8" />
       <module name="gmall-user-web" target="1.8" />
       <module name="gmall-web-util" target="1.8" />
+      <module name="gware-manage" target="1.8" />
+      <module name="gware-manager" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -51,13 +64,19 @@
       <module name="gmall-item-web" options="" />
       <module name="gmall-manage-service" options="" />
       <module name="gmall-manage-web" options="" />
+      <module name="gmall-order-service" options="" />
+      <module name="gmall-order-web" options="" />
+      <module name="gmall-passport-web" options="" />
+      <module name="gmall-payment" options="" />
       <module name="gmall-search-service" options="" />
       <module name="gmall-search-web" options="" />
+      <module name="gmall-seckill" options="" />
       <module name="gmall-service-util" options="" />
       <module name="gmall-user" options="" />
       <module name="gmall-user-service" options="" />
       <module name="gmall-user-web" options="" />
       <module name="gmall-web-util" options="" />
+      <module name="gware-manager" options="" />
     </option>
   </component>
 </project>
