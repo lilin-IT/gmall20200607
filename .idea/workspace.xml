@@ -4,9 +4,7 @@
     <list default="true" id="2d07d468-5962-4d2c-8153-051d9ea02fbd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/gmall-user/target/" />
     <ignored path="$PROJECT_DIR$/gmall-parent/target/" />
@@ -285,7 +283,17 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gmall20200607" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gmall20200607" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -311,7 +319,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -842,7 +850,8 @@
       <workItem from="1608360734966" duration="1198000" />
       <workItem from="1608386805504" duration="599000" />
       <workItem from="1608448357886" duration="693000" />
-      <workItem from="1608564484697" duration="601000" />
+      <workItem from="1608564484697" duration="1007000" />
+      <workItem from="1608787989517" duration="1710000" />
     </task>
     <servers />
   </component>
@@ -879,7 +888,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="830364000" />
+    <option name="totallyTimeSpent" value="832480000" />
   </component>
   <component name="TodoView" selected-index="1">
     <todo-panel id="selected-file">
@@ -893,7 +902,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49445984" visible="true" weight="0.211126" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49445984" visible="true" weight="0.21380697" />
       <window_info id="Structure" order="1" sideWeight="0.50138503" side_tool="true" weight="0.22050938" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />

@@ -7,27 +7,27 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="gmall-order-web" />
         <module name="gmall-web-util" />
-        <module name="gmall-search-service" />
         <module name="gmall-common-util" />
-        <module name="gmall-item-web" />
-        <module name="gmall-passport-web" />
         <module name="gmall-manage-web" />
-        <module name="gmall-manage-service" />
+        <module name="gware-manage" />
         <module name="gmall-order-service" />
         <module name="fastdfs-client-java" />
         <module name="gmall-cart-service" />
         <module name="gmall-api" />
-        <module name="gmall-order-web" />
-        <module name="gmall-seckill" />
+        <module name="gmall-manage-service" />
+        <module name="gmall-cart-web" />
         <module name="gmall-payment" />
         <module name="gmall-user-service" />
-        <module name="gware-manage" />
-        <module name="gmall-cart-web" />
-        <module name="gmall-user-web" />
-        <module name="gmall-search-web" />
-        <module name="gmall-user" />
+        <module name="gmall-passport-web" />
         <module name="gmall-service-util" />
+        <module name="gmall-search-service" />
+        <module name="gmall-user-web" />
+        <module name="gmall-user" />
+        <module name="gmall-search-web" />
+        <module name="gmall-seckill" />
+        <module name="gmall-item-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8">
@@ -53,7 +53,6 @@
       <module name="gmall-user-web" target="1.8" />
       <module name="gmall-web-util" target="1.8" />
       <module name="gware-manage" target="1.8" />
-      <module name="gware-manager" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -76,7 +75,6 @@
       <module name="gmall-user-service" options="" />
       <module name="gmall-user-web" options="" />
       <module name="gmall-web-util" options="" />
-      <module name="gware-manager" options="" />
     </option>
   </component>
 </project>
