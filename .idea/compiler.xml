@@ -30,7 +30,7 @@
         <module name="gmall-item-web" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="8">
+    <bytecodeTargetLevel target="11">
       <module name="fastdfs-client-java" target="1.6" />
       <module name="gmall-api" target="1.8" />
       <module name="gmall-cart-service" target="1.8" />
